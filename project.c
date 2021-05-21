@@ -5,7 +5,7 @@
 /*clg_id for OU is 20
 clg_id for VCE is 21
 clg_id for CBIT is 22
-clg_id for MGIT is 23*/
+clg_id for MGIT is 23 */
 //Branch codes: cse-1,ece-2,it-3,eee-4,mech-5,civil-6
 struct student
 {
